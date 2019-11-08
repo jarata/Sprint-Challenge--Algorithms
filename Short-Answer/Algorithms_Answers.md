@@ -1,14 +1,15 @@
-Add your answers to the Algorithms exercises here.
+#### Please add your answers to the ***Analysis of  Algorithms*** exercises here.
 
-Exercise I
+## Exercise I
 
-a) o(n)
+a)
 
-b) o(n^3)
 
-c) o(n)
+b)
 
-Exercise II
 
-I would take the "n" and then find the middle of that and test to see if it meets "f" requirements,
-if it breaks, eliminate half of the array and repeat the process until "f" is absolute.
+c)
+
+## Exercise II
+
+
